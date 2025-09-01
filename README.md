@@ -26,9 +26,29 @@ You can confirm Python is installed by running:
 ```bash 
 python --version
 (or python3 --version on Mac/Linux)
+```
 
 ### 2️⃣ Install Python Install Pygame
 
 Pygame is the library used to build this game. Install it with:
-
+```bash
 pip install pygame
+(or pip3 install pygame on Mac/Linux)
+```
+### 3️⃣ Download the Game Files
+
+1. Click the green Code button on the GitHub repository (or download the .zip if shared).
+2. If downloading .zip:
+    - Extract it to a folder (e.g., space_invaders/).
+3. Make sure the folder contains:
+    - space_invaders.py (the main game file)
+
+### 4️⃣ Run the Game
+Navigate to the folder where you saved the files, then run:
+```bash
+python space_invaders.py
+(or python3 space_invaders.py on Mac/Linux)
+```
+
+# Credits
+Wasayuddin Syed
